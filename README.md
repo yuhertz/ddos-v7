@@ -4,7 +4,7 @@ Set up for Termux
 ```
 apt install git
 apt install python3
-apt install pip
+apt install python-pip
 git clone https://github.com/yuhertz/ddos-v7
 cd ddos-v7
 pip install -r requirements.txt
