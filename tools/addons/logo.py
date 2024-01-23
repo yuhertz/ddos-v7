@@ -15,7 +15,8 @@ def show_logo() -> None:
         None
     """
     logo = """
- MADE BY ROCOTAI ARTIFICIAL INTELLIGENCE SECRET SERVICE by Hertz  
+ ROCOTAI ARTIFICIAL INTELLIGENCE MADE BY HERTZ
+ DDoS VERSION 7
   """
 
     print(f"{F.RED}{logo}")
